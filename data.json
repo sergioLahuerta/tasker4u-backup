@@ -2,6 +2,12 @@
   {
     "id": 1790112752826,
     "name": "Clasee",
-    "tasks": []
+    "tasks": [
+      {
+        "id": 1790115631691,
+        "text": "d",
+        "done": false
+      }
+    ]
   }
 ]
