@@ -41,6 +41,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790190977474,
+        "text": "G",
+        "done": false
+      },
+      {
         "id": 1790179811693,
         "text": "Poder poner una fecha en el calendario para que te mande una notificación de esa tarea",
         "done": false
