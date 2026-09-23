@@ -35,6 +35,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790173569341,
+        "text": "Iconos en carpetas",
+        "done": false
+      },
+      {
         "id": 1790173556945,
         "text": "Poder crear carpetas dentro de carpetas",
         "done": false
