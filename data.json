@@ -41,6 +41,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790173424758,
+        "text": "Que el icono donde va el check se quede con el mismo tamaño independientemente de como de cuanto ocupe la tarea",
+        "done": false
+      },
+      {
         "id": 1790173362626,
         "text": "Poder ordenar las tareas por nombre, más recientes o más antiguas",
         "done": false
