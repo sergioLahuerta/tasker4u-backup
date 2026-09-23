@@ -41,6 +41,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790179811693,
+        "text": "Poder poner una fecha en el calendario para que te mande una notificación de esa tarea",
+        "done": false
+      },
+      {
         "id": 1790179693636,
         "text": "Cuando no hay tareas completadas, estando en esa sección no funciona cuando vas a Pendientes o Todas, cuando hay alguna si que funciona normal",
         "done": false
