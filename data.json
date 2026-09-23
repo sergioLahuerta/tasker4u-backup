@@ -35,6 +35,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790173556945,
+        "text": "Poder crear carpetas dentro de carpetas",
+        "done": false
+      },
+      {
         "id": 1790173521856,
         "text": "Poder seleccionar/pinchar una tarea y renombrar, duplicar, mover o eliminar",
         "done": false
