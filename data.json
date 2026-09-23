@@ -35,6 +35,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790173521856,
+        "text": "Poder seleccionar/pinchar una tarea y renombrar, duplicar, mover o eliminar",
+        "done": false
+      },
+      {
         "id": 1790173463875,
         "text": "Cambiar svg de la app",
         "done": false
