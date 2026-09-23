@@ -4,9 +4,14 @@
     "name": "Clase",
     "tasks": [
       {
+        "id": 1790173296111,
+        "text": "Cuaderno Datos: Ejercicio 2",
+        "done": false
+      },
+      {
         "id": 1790152840957,
         "text": "Cuaderno Datos: Ejercicio 1",
-        "done": true
+        "done": false
       }
     ]
   },
