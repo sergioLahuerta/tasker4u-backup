@@ -2,6 +2,12 @@
   {
     "id": 1790112752826,
     "name": "Clase",
-    "tasks": []
+    "tasks": [
+      {
+        "id": 1790152840957,
+        "text": "Mirar Java Acceso a Datos Campus",
+        "done": false
+      }
+    ]
   }
 ]
