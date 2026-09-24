@@ -6,30 +6,46 @@
       {
         "id": 1790256916404,
         "text": "Examen Acceso a Datos",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.992Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790173309477,
         "text": "Cuaderno Datos: Ejercicio 4",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.992Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790173302524,
         "text": "Cuaderno Datos: Ejercicio 3",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790173296111,
         "text": "Cuaderno Datos: Ejercicio 2",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790152840957,
         "text": "Cuaderno Datos: Ejercicio 1",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       }
     ],
-    "subfolders": []
+    "subfolders": [],
+    "icon": "📁"
   },
   {
     "id": 1790153294512,
@@ -38,15 +54,22 @@
       {
         "id": 1790250742050,
         "text": "Hacerte Café",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790179773537,
         "text": "Analizar Indexado Sábado Tarde",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       }
     ],
-    "subfolders": []
+    "subfolders": [],
+    "icon": "📁"
   },
   {
     "id": 1790173329801,
@@ -55,55 +78,86 @@
       {
         "id": 1790252247586,
         "text": "Que haya una parte de calendario donde ver las que hiciste y las que no",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790252232108,
         "text": "Poner repetición de la tarea, y que se renueve semanalmente",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790179811693,
         "text": "Poder poner una fecha en el calendario para que te mande una notificación de esa tarea",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790179693636,
         "text": "Cuando no hay tareas completadas, estando en esa sección no funciona cuando vas a Pendientes o Todas, cuando hay alguna si que funciona normal",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       },
       {
         "id": 1790173569341,
         "text": "Iconos para identificar las carpetas",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       },
       {
         "id": 1790173556945,
         "text": "Poder crear carpetas dentro de carpetas",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       },
       {
         "id": 1790173521856,
         "text": "Poder seleccionar/pinchar una tarea y renombrar, duplicar, mover o eliminar",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       },
       {
         "id": 1790173463875,
         "text": "Cambiar svg de la app",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790173424758,
         "text": "Que el icono donde va el check se quede con el mismo tamaño independientemente de como de cuanto ocupe la tarea",
-        "done": true
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790173362626,
         "text": "Poder ordenar las tareas por nombre, más recientes o más antiguas",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       }
     ],
-    "subfolders": []
+    "subfolders": [],
+    "icon": "📁"
   },
   {
     "id": 1790240878186,
@@ -112,24 +166,37 @@
       {
         "id": 1790241001580,
         "text": "Power Automate: Mejorar Entorno Personal",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790240923667,
         "text": "Revisar Backoffice mejoras",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       },
       {
         "id": 1790240910191,
         "text": "Hacer video explicativo demo App",
-        "done": true
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
       },
       {
         "id": 1790240898473,
         "text": "Mejorar manual App Familias",
-        "done": false
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
       }
     ],
-    "subfolders": []
+    "subfolders": [],
+    "icon": "📁"
   }
 ]
