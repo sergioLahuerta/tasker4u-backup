@@ -164,6 +164,14 @@
     "name": "Trabajo",
     "tasks": [
       {
+        "id": 1790284351399,
+        "text": "H y",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-09-24T21:12:31.399Z",
+        "completedAt": null
+      },
+      {
         "id": 1790241001580,
         "text": "Power Automate: Mejorar Entorno Personal",
         "done": false,
