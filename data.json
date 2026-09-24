@@ -46,6 +46,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790252247586,
+        "text": "Que haya una parte de calendario donde ver las que hiciste y las que no",
+        "done": false
+      },
+      {
         "id": 1790252232108,
         "text": "Poner repetición de la tarea, y que se renueve semanalmente",
         "done": false
