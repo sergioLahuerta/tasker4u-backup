@@ -46,6 +46,11 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1790252232108,
+        "text": "Poner repetición de la tarea, y que se renueve semanalmente",
+        "done": false
+      },
+      {
         "id": 1790179811693,
         "text": "Poder poner una fecha en el calendario para que te mande una notificación de esa tarea",
         "done": false
