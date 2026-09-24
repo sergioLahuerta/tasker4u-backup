@@ -4,6 +4,11 @@
     "name": "Clase",
     "tasks": [
       {
+        "id": 1790256916404,
+        "text": "Examen Acceso a Datos",
+        "done": false
+      },
+      {
         "id": 1790173309477,
         "text": "Cuaderno Datos: Ejercicio 4",
         "done": false
