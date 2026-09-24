@@ -87,6 +87,11 @@
     "name": "Trabajo",
     "tasks": [
       {
+        "id": 1790241001580,
+        "text": "Power Automate: Mejorar Entorno Personal",
+        "done": false
+      },
+      {
         "id": 1790240923667,
         "text": "Revisar Backoffice mejoras",
         "done": false
