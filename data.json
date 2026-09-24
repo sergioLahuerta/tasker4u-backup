@@ -87,6 +87,11 @@
     "name": "Trabajo",
     "tasks": [
       {
+        "id": 1790240910191,
+        "text": "Hacer video explicativo demo App",
+        "done": false
+      },
+      {
         "id": 1790240898473,
         "text": "Mejorar manual App Familias",
         "done": false
