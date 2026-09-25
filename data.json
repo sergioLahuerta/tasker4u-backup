@@ -52,6 +52,14 @@
     "name": "Casa",
     "tasks": [
       {
+        "id": 1790339071901,
+        "text": "Inyección",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-09-25T12:24:31.901Z",
+        "completedAt": null
+      },
+      {
         "id": 1790250742050,
         "text": "Hacerte Café",
         "done": false,
