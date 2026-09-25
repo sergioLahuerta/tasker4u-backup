@@ -248,7 +248,16 @@
         "name": "PRE",
         "icon": "📁",
         "subfolders": [],
-        "tasks": []
+        "tasks": [
+          {
+            "id": 1790342694522,
+            "text": "Aletas",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:24:54.522Z",
+            "completedAt": null
+          }
+        ]
       },
       {
         "id": 1790342672333,
