@@ -88,9 +88,10 @@
         "id": 1790349032051,
         "text": "Y",
         "done": false,
-        "dueDate": null,
+        "dueDate": "2026-09-25T15:12:00.000Z",
         "createdAt": "2026-09-25T15:10:32.051Z",
-        "completedAt": null
+        "completedAt": null,
+        "notified": false
       },
       {
         "id": 1790339071901,
