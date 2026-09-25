@@ -18,22 +18,6 @@
         "createdAt": "2026-09-24T21:10:19.992Z",
         "completedAt": null,
         "dueDate": null
-      },
-      {
-        "id": 1790173302524,
-        "text": "Cuaderno Datos: Ejercicio 3",
-        "done": false,
-        "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": null,
-        "dueDate": null
-      },
-      {
-        "id": 1790173296111,
-        "text": "Cuaderno Datos: Ejercicio 2",
-        "done": false,
-        "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": null,
-        "dueDate": null
       }
     ],
     "subfolders": [],
