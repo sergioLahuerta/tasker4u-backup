@@ -279,10 +279,10 @@
           {
             "id": 1790342685340,
             "text": "Candado",
-            "done": true,
+            "done": false,
             "dueDate": null,
             "createdAt": "2026-09-25T13:24:45.340Z",
-            "completedAt": "2026-09-25T14:34:48.597Z"
+            "completedAt": null
           }
         ]
       }
