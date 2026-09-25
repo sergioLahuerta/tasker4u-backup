@@ -233,9 +233,9 @@
       {
         "id": 1790240910191,
         "text": "Hacer video explicativo demo App",
-        "done": true,
+        "done": false,
         "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
         "dueDate": null
       },
       {
