@@ -34,14 +34,6 @@
         "createdAt": "2026-09-24T21:10:19.993Z",
         "completedAt": null,
         "dueDate": null
-      },
-      {
-        "id": 1790152840957,
-        "text": "Cuaderno Datos: Ejercicio 1",
-        "done": false,
-        "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": null,
-        "dueDate": null
       }
     ],
     "subfolders": [],
