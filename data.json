@@ -75,22 +75,6 @@
             "completedAt": null
           }
         ]
-      },
-      {
-        "id": 1790343157941.0747,
-        "name": "_ (Copia)",
-        "icon": "PSP",
-        "subfolders": [],
-        "tasks": [
-          {
-            "id": 1790343157941.1184,
-            "text": "Ejercicios",
-            "done": false,
-            "dueDate": null,
-            "createdAt": "2026-09-25T13:32:37.941Z",
-            "completedAt": null
-          }
-        ]
       }
     ],
     "icon": "👨‍💻"
