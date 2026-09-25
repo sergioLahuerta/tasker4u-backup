@@ -9,7 +9,16 @@
         "name": "Acceso a Datos",
         "icon": "📁",
         "subfolders": [],
-        "tasks": []
+        "tasks": [
+          {
+            "id": 1790339603946,
+            "text": "Cuaderno Datos: Ejercicio 1 (Copia) (Copia)",
+            "done": false,
+            "createdAt": "2026-09-25T12:33:23.946Z",
+            "completedAt": null,
+            "dueDate": null
+          }
+        ]
       },
       {
         "id": 1790339590749,
