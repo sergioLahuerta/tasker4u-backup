@@ -242,7 +242,15 @@
     "id": 1790338585714,
     "name": "Comprar",
     "icon": "🛒",
-    "subfolders": [],
+    "subfolders": [
+      {
+        "id": 1790342669160,
+        "name": "PRE",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": []
+      }
+    ],
     "tasks": []
   }
 ]
