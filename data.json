@@ -85,24 +85,6 @@
     "name": "Casa",
     "tasks": [
       {
-        "id": 1790354188906,
-        "text": "G",
-        "done": false,
-        "dueDate": "2026-09-25T16:38:00.000Z",
-        "createdAt": "2026-09-25T16:36:28.906Z",
-        "completedAt": null,
-        "notified": false
-      },
-      {
-        "id": 1790351541175,
-        "text": "G",
-        "done": false,
-        "dueDate": "2026-09-25T16:37:00.000Z",
-        "createdAt": "2026-09-25T15:52:21.175Z",
-        "completedAt": null,
-        "notified": false
-      },
-      {
         "id": 1790339071901,
         "text": "Inyección",
         "done": false,
