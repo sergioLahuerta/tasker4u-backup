@@ -48,7 +48,15 @@
         "id": 1790339590749,
         "name": "Programación Multimedia",
         "icon": "📁",
-        "subfolders": [],
+        "subfolders": [
+          {
+            "id": 1790339673208,
+            "name": "Tarea: Modificación en Layout",
+            "icon": "📁",
+            "subfolders": [],
+            "tasks": []
+          }
+        ],
         "tasks": []
       }
     ],
