@@ -2,17 +2,16 @@
   {
     "id": 1790112752826,
     "name": "Clase",
-    "tasks": [
+    "tasks": [],
+    "subfolders": [
       {
-        "id": 1790256916404,
-        "text": "Examen Acceso a Datos",
-        "done": false,
-        "createdAt": "2026-09-24T21:10:19.992Z",
-        "completedAt": null,
-        "dueDate": null
+        "id": 1790339579945,
+        "name": "Acceso a Datos",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": []
       }
     ],
-    "subfolders": [],
     "icon": "👨‍💻"
   },
   {
