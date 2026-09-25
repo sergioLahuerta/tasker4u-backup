@@ -49,7 +49,16 @@
         "name": "Programación Multimedia",
         "icon": "📁",
         "subfolders": [],
-        "tasks": []
+        "tasks": [
+          {
+            "id": 1790339686900,
+            "text": "Tarea: Modificación en Layout",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T12:34:46.900Z",
+            "completedAt": null
+          }
+        ]
       }
     ],
     "icon": "👨‍💻"
