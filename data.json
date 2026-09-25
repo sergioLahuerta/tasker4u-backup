@@ -254,7 +254,15 @@
         "id": 1790342672333,
         "name": "PRO",
         "icon": "📁",
-        "subfolders": [],
+        "subfolders": [
+          {
+            "id": 1790342676803,
+            "name": "Candado",
+            "icon": "📁",
+            "subfolders": [],
+            "tasks": []
+          }
+        ],
         "tasks": []
       }
     ],
