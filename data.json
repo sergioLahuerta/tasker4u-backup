@@ -65,7 +65,16 @@
         "name": "_",
         "icon": "PSP",
         "subfolders": [],
-        "tasks": []
+        "tasks": [
+          {
+            "id": 1790343139993,
+            "text": "Ejercicios",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:32:19.993Z",
+            "completedAt": null
+          }
+        ]
       }
     ],
     "icon": "👨‍💻"
