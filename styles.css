@@ -1,0 +1,15 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.context-menu {
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
+    transform-origin: top right;
+}
+
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}

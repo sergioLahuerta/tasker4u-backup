@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="115" fill="#0f172a"/>
+  <path d="M120 160h272v64H288v192h-64V224H120z" fill="#6366f1"/>
+  <text x="256" y="380" font-family="system-ui, sans-serif" font-weight="900" font-size="180" fill="#ffffff" text-anchor="middle">4U</text>
+</svg>
