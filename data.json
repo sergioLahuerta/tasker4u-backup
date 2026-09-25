@@ -126,30 +126,6 @@
     "name": "Tasker4u",
     "tasks": [
       {
-        "id": 1790348958391,
-        "text": "J",
-        "done": false,
-        "dueDate": null,
-        "createdAt": "2026-09-25T15:09:18.391Z",
-        "completedAt": null
-      },
-      {
-        "id": 1790348956814,
-        "text": "G",
-        "done": false,
-        "dueDate": null,
-        "createdAt": "2026-09-25T15:09:16.814Z",
-        "completedAt": null
-      },
-      {
-        "id": 1790348954685,
-        "text": "H",
-        "done": false,
-        "dueDate": null,
-        "createdAt": "2026-09-25T15:09:14.685Z",
-        "completedAt": null
-      },
-      {
         "id": 1790252247586,
         "text": "Que haya una parte de calendario donde ver las que hiciste y las que no",
         "done": false,
