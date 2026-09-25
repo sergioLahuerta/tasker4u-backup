@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1790112752826,
+    "name": "Clase",
+    "tasks": [],
+    "subfolders": [
+      {
+        "id": 1790339579945,
+        "name": "Acceso a Datos",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": [
+          {
+            "id": 1790339654001,
+            "text": "Repasar Examen",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T12:34:14.001Z",
+            "completedAt": null
+          },
+          {
+            "id": 1790339639740,
+            "text": "Cuaderno Datos: Ejercicio 3",
+            "done": false,
+            "createdAt": "2026-09-25T12:33:59.740Z",
+            "completedAt": null,
+            "dueDate": null
+          },
+          {
+            "id": 1790339612663,
+            "text": "Cuaderno Datos: Ejercicio 2",
+            "done": false,
+            "createdAt": "2026-09-25T12:33:32.663Z",
+            "completedAt": null,
+            "dueDate": null
+          },
+          {
+            "id": 1790339603946,
+            "text": "Cuaderno Datos: Ejercicio 1",
+            "done": false,
+            "createdAt": "2026-09-25T12:33:23.946Z",
+            "completedAt": null,
+            "dueDate": null
+          }
+        ]
+      },
+      {
+        "id": 1790339590749,
+        "name": "Programación Multimedia",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": [
+          {
+            "id": 1790339686900,
+            "text": "Tarea: Modificación en Layout",
+            "done": false,
+            "dueDate": "2026-09-25T14:15:00.000Z",
+            "createdAt": "2026-09-25T12:34:46.900Z",
+            "completedAt": null,
+            "notified": false
+          }
+        ]
+      },
+      {
+        "id": 1790342586052,
+        "name": "_",
+        "icon": "PSP",
+        "subfolders": [],
+        "tasks": [
+          {
+            "id": 1790343139993,
+            "text": "Ejercicios",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:32:19.993Z",
+            "completedAt": null
+          }
+        ]
+      }
+    ],
+    "icon": "🔤"
+  },
+  {
+    "id": 1790153294512,
+    "name": "Casa",
+    "tasks": [
+      {
+        "id": 1790351541175,
+        "text": "G",
+        "done": false,
+        "dueDate": "2026-09-25T15:57:00.000Z",
+        "createdAt": "2026-09-25T15:52:21.175Z",
+        "completedAt": null,
+        "notified": false
+      },
+      {
+        "id": 1790339071901,
+        "text": "Inyección",
+        "done": false,
+        "dueDate": "2026-09-25T18:30:00.000Z",
+        "createdAt": "2026-09-25T12:24:31.901Z",
+        "completedAt": null,
+        "notified": false
+      },
+      {
+        "id": 1790250742050,
+        "text": "Hacerte Café",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790179773537,
+        "text": "Analizar Indexado Sábado Tarde",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      }
+    ],
+    "subfolders": [],
+    "icon": "🏠"
+  },
+  {
+    "id": 1790173329801,
+    "name": "Tasker4u",
+    "tasks": [
+      {
+        "id": 1790252247586,
+        "text": "Que haya una parte de calendario donde ver las que hiciste y las que no",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790252232108,
+        "text": "Poner repetición de la tarea, y que se renueve semanalmente",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790179811693,
+        "text": "Poder poner una fecha en el calendario para que te mande una notificación de esa tarea",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790179693636,
+        "text": "Cuando no hay tareas completadas, estando en esa sección no funciona cuando vas a Pendientes o Todas, cuando hay alguna si que funciona normal",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-25T15:09:03.791Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790173569341,
+        "text": "Iconos para identificar las carpetas",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:11:39.570Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790173556945,
+        "text": "Poder crear carpetas dentro de carpetas",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790173521856,
+        "text": "Poder seleccionar/pinchar una tarea y renombrar, duplicar, mover o eliminar",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790173463875,
+        "text": "Cambiar svg de la app",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790173424758,
+        "text": "Que el icono donde va el check se quede con el mismo tamaño independientemente de como de cuanto ocupe la tarea",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:11:01.571Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790173362626,
+        "text": "Poder ordenar las tareas por nombre, más recientes o más antiguas",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-24T21:10:19.993Z",
+        "dueDate": null
+      }
+    ],
+    "subfolders": [],
+    "icon": "T"
+  },
+  {
+    "id": 1790240878186,
+    "name": "Trabajo",
+    "tasks": [
+      {
+        "id": 1790241001580,
+        "text": "Power Automate: Mejorar Entorno Personal",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      },
+      {
+        "id": 1790240923667,
+        "text": "Revisar Backoffice mejoras",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-25T13:28:38.212Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790240910191,
+        "text": "Hacer video explicativo demo App",
+        "done": true,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": "2026-09-25T15:58:05.952Z",
+        "dueDate": null
+      },
+      {
+        "id": 1790240898473,
+        "text": "Mejorar manual App Familias",
+        "done": false,
+        "createdAt": "2026-09-24T21:10:19.993Z",
+        "completedAt": null,
+        "dueDate": null
+      }
+    ],
+    "subfolders": [],
+    "icon": "🖥️"
+  },
+  {
+    "id": 1790338585714,
+    "name": "Comprar",
+    "icon": "🛒",
+    "subfolders": [
+      {
+        "id": 1790342669160,
+        "name": "PRE",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": [
+          {
+            "id": 1790342698027,
+            "text": "Caseina",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:24:58.027Z",
+            "completedAt": null
+          },
+          {
+            "id": 1790342694522,
+            "text": "Aletas",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:24:54.522Z",
+            "completedAt": null
+          }
+        ]
+      },
+      {
+        "id": 1790342672333,
+        "name": "PRO",
+        "icon": "📁",
+        "subfolders": [],
+        "tasks": [
+          {
+            "id": 1790342685340,
+            "text": "Candado",
+            "done": true,
+            "dueDate": null,
+            "createdAt": "2026-09-25T13:24:45.340Z",
+            "completedAt": "2026-09-25T14:34:48.597Z"
+          }
+        ]
+      }
+    ],
+    "tasks": []
+  }
+]
