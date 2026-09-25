@@ -75,14 +75,6 @@
     "name": "Casa",
     "tasks": [
       {
-        "id": 1790342947682,
-        "text": "Hacerte Café (Copia)",
-        "done": false,
-        "createdAt": "2026-09-25T13:29:07.682Z",
-        "completedAt": null,
-        "dueDate": null
-      },
-      {
         "id": 1790339071901,
         "text": "Inyección",
         "done": false,
