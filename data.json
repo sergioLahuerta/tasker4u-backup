@@ -64,7 +64,15 @@
         "id": 1790342586052,
         "name": "_",
         "icon": "PSP",
-        "subfolders": [],
+        "subfolders": [
+          {
+            "id": 1790343129828,
+            "name": "Ejercicios",
+            "icon": "📁",
+            "subfolders": [],
+            "tasks": []
+          }
+        ],
         "tasks": []
       }
     ],
