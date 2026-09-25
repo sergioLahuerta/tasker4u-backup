@@ -85,15 +85,6 @@
     "name": "Casa",
     "tasks": [
       {
-        "id": 1790344268147,
-        "text": "Nueva",
-        "done": false,
-        "dueDate": "2026-09-25T11:54:00.000Z",
-        "createdAt": "2026-09-25T13:51:08.147Z",
-        "completedAt": null,
-        "notified": false
-      },
-      {
         "id": 1790339071901,
         "text": "Inyección",
         "done": false,
