@@ -152,9 +152,9 @@
       {
         "id": 1790179693636,
         "text": "Cuando no hay tareas completadas, estando en esa sección no funciona cuando vas a Pendientes o Todas, cuando hay alguna si que funciona normal",
-        "done": true,
+        "done": false,
         "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": "2026-09-24T21:11:31.769Z",
+        "completedAt": null,
         "dueDate": null
       },
       {
