@@ -253,6 +253,14 @@
         "subfolders": [],
         "tasks": [
           {
+            "id": 1790884637694,
+            "text": "Lenovo Chromebook Duet 11M889",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-10-01T19:57:17.694Z",
+            "completedAt": null
+          },
+          {
             "id": 1790342698027,
             "text": "Caseina",
             "done": false,
