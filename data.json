@@ -287,26 +287,26 @@
           {
             "id": 1791634409734,
             "text": "Cascos",
-            "done": false,
+            "done": true,
             "dueDate": null,
             "createdAt": "2026-10-10T12:13:29.734Z",
-            "completedAt": null
+            "completedAt": "2026-10-10T12:13:31.369Z"
           },
           {
             "id": 1791634407428,
             "text": "Teclado",
-            "done": false,
+            "done": true,
             "dueDate": null,
             "createdAt": "2026-10-10T12:13:27.428Z",
-            "completedAt": null
+            "completedAt": "2026-10-10T12:13:30.824Z"
           },
           {
             "id": 1791634405080,
             "text": "Monitor",
-            "done": false,
+            "done": true,
             "dueDate": null,
             "createdAt": "2026-10-10T12:13:25.080Z",
-            "completedAt": null
+            "completedAt": "2026-10-10T12:13:30.563Z"
           },
           {
             "id": 1790342685340,
