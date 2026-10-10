@@ -285,6 +285,14 @@
         "subfolders": [],
         "tasks": [
           {
+            "id": 1791634405080,
+            "text": "Monitor",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-10-10T12:13:25.080Z",
+            "completedAt": null
+          },
+          {
             "id": 1790342685340,
             "text": "Candado",
             "done": true,
