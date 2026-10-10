@@ -12,10 +12,10 @@
         "tasks": [
           {
             "id": 1791634455558,
-            "text": "Cuaderno Datos: Ejercicio 3 (Copia)",
-            "done": true,
+            "text": "Ejercicio 4",
+            "done": false,
             "createdAt": "2026-10-10T12:14:15.558Z",
-            "completedAt": "2026-10-10T12:14:25.476Z",
+            "completedAt": null,
             "dueDate": null
           },
           {
