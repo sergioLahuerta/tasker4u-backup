@@ -248,9 +248,9 @@
       {
         "id": 1790240898473,
         "text": "Mejorar manual App Familias",
-        "done": false,
+        "done": true,
         "createdAt": "2026-09-24T21:10:19.993Z",
-        "completedAt": null,
+        "completedAt": "2026-10-10T12:16:42.719Z",
         "dueDate": null
       }
     ],
