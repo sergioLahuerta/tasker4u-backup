@@ -253,6 +253,14 @@
         "subfolders": [],
         "tasks": [
           {
+            "id": 1791634394484,
+            "text": "Champú aceite",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-10-10T12:13:14.484Z",
+            "completedAt": null
+          },
+          {
             "id": 1790342698027,
             "text": "Caseina",
             "done": false,
