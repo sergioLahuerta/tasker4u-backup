@@ -285,12 +285,20 @@
         "subfolders": [],
         "tasks": [
           {
-            "id": 1791634433645,
-            "text": "Cable Usbc Display Port 1.4",
+            "id": 1791634439393,
+            "text": "USB Hub",
             "done": false,
             "dueDate": null,
-            "createdAt": "2026-10-10T12:13:53.645Z",
+            "createdAt": "2026-10-10T12:13:59.393Z",
             "completedAt": null
+          },
+          {
+            "id": 1791634433645,
+            "text": "Cable Usbc Display Port 1.4",
+            "done": true,
+            "dueDate": null,
+            "createdAt": "2026-10-10T12:13:53.645Z",
+            "completedAt": "2026-10-10T12:13:54.577Z"
           },
           {
             "id": 1791634409734,
