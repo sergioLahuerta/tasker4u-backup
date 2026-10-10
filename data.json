@@ -11,6 +11,14 @@
         "subfolders": [],
         "tasks": [
           {
+            "id": 1791634507578,
+            "text": "Cuaderno: Ej5",
+            "done": false,
+            "dueDate": null,
+            "createdAt": "2026-10-10T12:15:07.578Z",
+            "completedAt": null
+          },
+          {
             "id": 1791634455558,
             "text": "Cuaderno: Ej4",
             "done": true,
@@ -21,10 +29,10 @@
           {
             "id": 1790339654001,
             "text": "Repasar Examen",
-            "done": false,
+            "done": true,
             "dueDate": null,
             "createdAt": "2026-09-25T12:34:14.001Z",
-            "completedAt": null
+            "completedAt": "2026-10-10T12:14:59.204Z"
           },
           {
             "id": 1790339639740,
