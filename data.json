@@ -11,6 +11,14 @@
         "subfolders": [],
         "tasks": [
           {
+            "id": 1791634455558,
+            "text": "Cuaderno Datos: Ejercicio 3 (Copia)",
+            "done": false,
+            "createdAt": "2026-10-10T12:14:15.558Z",
+            "completedAt": null,
+            "dueDate": null
+          },
+          {
             "id": 1790339654001,
             "text": "Repasar Examen",
             "done": false,
