@@ -371,10 +371,10 @@
       {
         "id": 1791799107965,
         "text": "Mirar Bola negra",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-12T13:15:00.000Z",
         "createdAt": "2026-10-12T09:58:27.965Z",
-        "completedAt": null,
+        "completedAt": "2026-10-12T13:48:16.099Z",
         "notified": false
       }
     ]
