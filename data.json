@@ -369,6 +369,14 @@
     "subfolders": [],
     "tasks": [
       {
+        "id": 1791875244498,
+        "text": "Naza",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-10-13T07:07:24.498Z",
+        "completedAt": null
+      },
+      {
         "id": 1791799107965,
         "text": "Mirar Bola negra",
         "done": true,
