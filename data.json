@@ -369,12 +369,20 @@
     "subfolders": [],
     "tasks": [
       {
-        "id": 1792427198954,
-        "text": "Cars",
+        "id": 1792427227411,
+        "text": "The Devils (71)",
         "done": false,
         "dueDate": null,
-        "createdAt": "2026-10-19T16:26:38.954Z",
+        "createdAt": "2026-10-19T16:27:07.411Z",
         "completedAt": null
+      },
+      {
+        "id": 1792427198954,
+        "text": "Cars",
+        "done": true,
+        "dueDate": null,
+        "createdAt": "2026-10-19T16:26:38.954Z",
+        "completedAt": "2026-10-19T16:26:40.032Z"
       },
       {
         "id": 1791875262885,
