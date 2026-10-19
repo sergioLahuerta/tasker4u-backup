@@ -369,12 +369,20 @@
     "subfolders": [],
     "tasks": [
       {
-        "id": 1792427227411,
-        "text": "The Devils (71)",
+        "id": 1792427279811,
+        "text": "The social reckoning",
         "done": false,
         "dueDate": null,
-        "createdAt": "2026-10-19T16:27:07.411Z",
+        "createdAt": "2026-10-19T16:27:59.811Z",
         "completedAt": null
+      },
+      {
+        "id": 1792427227411,
+        "text": "The Devils (71)",
+        "done": true,
+        "dueDate": null,
+        "createdAt": "2026-10-19T16:27:07.411Z",
+        "completedAt": "2026-10-19T16:27:08.138Z"
       },
       {
         "id": 1792427198954,
