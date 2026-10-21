@@ -360,6 +360,14 @@
     "subfolders": [],
     "tasks": [
       {
+        "id": 1792592821605,
+        "text": "La invitación",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-10-21T14:27:01.605Z",
+        "completedAt": null
+      },
+      {
         "id": 1792592772835,
         "text": "Clayface",
         "done": false,
