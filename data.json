@@ -134,6 +134,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1792592969365,
+        "text": "Poder copiar/pegar varias tareas al mismo tiempo",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-10-21T14:29:29.365Z",
+        "completedAt": null
+      },
+      {
         "id": 1790252247586,
         "text": "Que haya una parte de calendario donde ver las que hiciste y las que no",
         "done": false,
