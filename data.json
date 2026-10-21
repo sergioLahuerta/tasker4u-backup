@@ -134,6 +134,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1792593123555,
+        "text": "Poder crear carpeta en un nivel de tareas  indicando el nombre de la carpeta a la que quieres que mS tareas de ese nivel se muevan",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-10-21T14:32:03.555Z",
+        "completedAt": null
+      },
+      {
         "id": 1792592969365,
         "text": "Poder copiar/pegar varias tareas al mismo tiempo",
         "done": false,
