@@ -238,6 +238,14 @@
     "name": "Trabajo",
     "tasks": [
       {
+        "id": 1792678925291,
+        "text": "Md5 en Power App",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-10-22T14:22:05.291Z",
+        "completedAt": null
+      },
+      {
         "id": 1790241001580,
         "text": "Power Automate: Mejorar Entorno Personal",
         "done": true,
