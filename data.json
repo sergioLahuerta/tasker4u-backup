@@ -110,6 +110,14 @@
                 "subfolders": [],
                 "tasks": [
                   {
+                    "id": 1793726781363,
+                    "text": "Detalles Empleado",
+                    "done": false,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:26:21.363Z",
+                    "completedAt": null
+                  },
+                  {
                     "id": 1793726771158,
                     "text": "Vista Almacén",
                     "done": false,
