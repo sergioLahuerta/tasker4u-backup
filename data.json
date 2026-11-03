@@ -519,12 +519,20 @@
     "subfolders": [],
     "tasks": [
       {
+        "id": 1793727074542,
+        "text": "Sinners IMAX",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-11-03T17:31:14.542Z",
+        "completedAt": null
+      },
+      {
         "id": 1792592866702,
         "text": "Wildwood",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-25T19:30:00.000Z",
         "createdAt": "2026-10-21T14:27:46.702Z",
-        "completedAt": null,
+        "completedAt": "2026-11-03T17:31:06.420Z",
         "notified": false
       },
       {
@@ -539,10 +547,10 @@
       {
         "id": 1792592772835,
         "text": "Clayface",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-25T11:15:00.000Z",
         "createdAt": "2026-10-21T14:26:12.835Z",
-        "completedAt": null,
+        "completedAt": "2026-11-03T17:31:07.313Z",
         "notified": false
       },
       {
