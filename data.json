@@ -110,6 +110,14 @@
                 "subfolders": [],
                 "tasks": [
                   {
+                    "id": 1793726744151,
+                    "text": "Vista Facturacion",
+                    "done": false,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:25:44.151Z",
+                    "completedAt": null
+                  },
+                  {
                     "id": 1793726736860,
                     "text": "Vista Empleados",
                     "done": false,
