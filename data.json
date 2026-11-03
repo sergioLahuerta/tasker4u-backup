@@ -237,6 +237,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1793726939814,
+        "text": "Que se puedan ordenar visualmente como tú quieras las tareas y carpetas manteniendo y arrastrando",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-11-03T17:28:59.814Z",
+        "completedAt": null
+      },
+      {
         "id": 1793726876651,
         "text": "Que al editar el nombre de una tarea te salga el nombre que tenía en un principio, y no tengas que escribirlo tú otra vez entero",
         "done": false,
