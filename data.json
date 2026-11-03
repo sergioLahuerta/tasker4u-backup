@@ -367,10 +367,10 @@
       {
         "id": 1792678944188,
         "text": "Coste Contrato SAPAP",
-        "done": false,
+        "done": true,
         "dueDate": null,
         "createdAt": "2026-10-22T14:22:24.188Z",
-        "completedAt": null
+        "completedAt": "2026-11-03T17:30:45.679Z"
       },
       {
         "id": 1792678925291,
@@ -462,10 +462,10 @@
           {
             "id": 1791634439393,
             "text": "USB Hub",
-            "done": false,
+            "done": true,
             "dueDate": null,
             "createdAt": "2026-10-10T12:13:59.393Z",
-            "completedAt": null
+            "completedAt": "2026-11-03T17:30:52.328Z"
           },
           {
             "id": 1791634433645,
