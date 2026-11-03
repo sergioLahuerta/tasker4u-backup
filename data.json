@@ -110,12 +110,20 @@
                 "subfolders": [],
                 "tasks": [
                   {
-                    "id": 1793726641476,
-                    "text": "Cabecera Navegador",
+                    "id": 1793726660499,
+                    "text": "Logo e Icono web/app",
                     "done": false,
                     "dueDate": null,
-                    "createdAt": "2026-11-03T17:24:01.476Z",
+                    "createdAt": "2026-11-03T17:24:20.499Z",
                     "completedAt": null
+                  },
+                  {
+                    "id": 1793726641476,
+                    "text": "Cabecera Navegador",
+                    "done": true,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:24:01.476Z",
+                    "completedAt": "2026-11-03T17:24:02.984Z"
                   },
                   {
                     "id": 1793726629946,
