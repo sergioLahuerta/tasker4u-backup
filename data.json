@@ -102,7 +102,15 @@
             "id": 1793726593997,
             "name": "Proyecto 1Ev",
             "icon": "📁",
-            "subfolders": [],
+            "subfolders": [
+              {
+                "id": 1793726609999,
+                "name": "Backoffice",
+                "icon": "📁",
+                "subfolders": [],
+                "tasks": []
+              }
+            ],
             "tasks": []
           }
         ],
