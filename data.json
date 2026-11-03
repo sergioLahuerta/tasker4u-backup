@@ -237,6 +237,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1793726876651,
+        "text": "Que al editar el nombre de una tarea te salga el nombre que tenía en un principio, y no tengas que escribirlo tú otra vez entero",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-11-03T17:27:56.651Z",
+        "completedAt": null
+      },
+      {
         "id": 1792593123555,
         "text": "Poder crear carpeta en un nivel de tareas  indicando el nombre de la carpeta a la que quieres que mS tareas de ese nivel se muevan",
         "done": false,
