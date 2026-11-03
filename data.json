@@ -547,10 +547,10 @@
       {
         "id": 1792592772835,
         "text": "Clayface",
-        "done": true,
+        "done": false,
         "dueDate": "2026-10-25T11:15:00.000Z",
         "createdAt": "2026-10-21T14:26:12.835Z",
-        "completedAt": "2026-11-03T17:31:07.313Z",
+        "completedAt": null,
         "notified": false
       },
       {
