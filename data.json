@@ -206,10 +206,10 @@
       {
         "id": 1790339071901,
         "text": "Inyección",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-27T18:03:00.000Z",
         "createdAt": "2026-09-25T12:24:31.901Z",
-        "completedAt": null,
+        "completedAt": "2026-11-03T17:32:57.649Z",
         "notified": false
       },
       {
