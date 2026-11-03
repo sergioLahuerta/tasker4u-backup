@@ -110,6 +110,14 @@
                 "subfolders": [],
                 "tasks": [
                   {
+                    "id": 1793726641476,
+                    "text": "Cabecera Navegador",
+                    "done": false,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:24:01.476Z",
+                    "completedAt": null
+                  },
+                  {
                     "id": 1793726629946,
                     "text": "Home Page",
                     "done": false,
