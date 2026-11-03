@@ -110,12 +110,20 @@
                 "subfolders": [],
                 "tasks": [
                   {
-                    "id": 1793726660499,
-                    "text": "Logo e Icono web/app",
+                    "id": 1793726736860,
+                    "text": "Vista Empleados",
                     "done": false,
                     "dueDate": null,
-                    "createdAt": "2026-11-03T17:24:20.499Z",
+                    "createdAt": "2026-11-03T17:25:36.860Z",
                     "completedAt": null
+                  },
+                  {
+                    "id": 1793726660499,
+                    "text": "Logo e Icono web/app",
+                    "done": true,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:24:20.499Z",
+                    "completedAt": "2026-11-03T17:24:21.623Z"
                   },
                   {
                     "id": 1793726641476,
