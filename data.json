@@ -237,6 +237,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1793726988542,
+        "text": "Que si sales de una carpeta con tareas y tenías el filtro de pendientes activo, que al volver a entrar lo sigas teniendo activo (persistencia)",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-11-03T17:29:48.542Z",
+        "completedAt": null
+      },
+      {
         "id": 1793726939814,
         "text": "Que se puedan ordenar visualmente como tú quieras las tareas y carpetas manteniendo y arrastrando",
         "done": false,
