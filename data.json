@@ -237,6 +237,14 @@
     "name": "Tasker4u",
     "tasks": [
       {
+        "id": 1793727154560,
+        "text": "TAB BAR con calendario y lista de carpetas y tareas para que por defecto al entrar a la app te salga el calendario y tú apretando te cree una tarea en esa franja horaria de ese día poniendo tu el nombre y posible descripcion",
+        "done": false,
+        "dueDate": null,
+        "createdAt": "2026-11-03T17:32:34.560Z",
+        "completedAt": null
+      },
+      {
         "id": 1793726988542,
         "text": "Que si sales de una carpeta con tareas y tenías el filtro de pendientes activo, que al volver a entrar lo sigas teniendo activo (persistencia)",
         "done": false,
@@ -547,10 +555,10 @@
       {
         "id": 1792592772835,
         "text": "Clayface",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-25T11:15:00.000Z",
         "createdAt": "2026-10-21T14:26:12.835Z",
-        "completedAt": null,
+        "completedAt": "2026-11-03T17:31:24.647Z",
         "notified": false
       },
       {
