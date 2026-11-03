@@ -108,7 +108,16 @@
                 "name": "Backoffice",
                 "icon": "📁",
                 "subfolders": [],
-                "tasks": []
+                "tasks": [
+                  {
+                    "id": 1793726629946,
+                    "text": "Home Page",
+                    "done": false,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:23:49.946Z",
+                    "completedAt": null
+                  }
+                ]
               },
               {
                 "id": 1793726615316,
