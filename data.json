@@ -530,10 +530,10 @@
       {
         "id": 1792592821605,
         "text": "La invitación",
-        "done": false,
+        "done": true,
         "dueDate": "2026-10-24T18:30:00.000Z",
         "createdAt": "2026-10-21T14:27:01.605Z",
-        "completedAt": null,
+        "completedAt": "2026-11-03T17:31:05.835Z",
         "notified": false
       },
       {
