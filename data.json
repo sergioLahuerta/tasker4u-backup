@@ -110,6 +110,14 @@
                 "subfolders": [],
                 "tasks": [
                   {
+                    "id": 1793726816980,
+                    "text": "Detalles Producto (Almacén)",
+                    "done": false,
+                    "dueDate": null,
+                    "createdAt": "2026-11-03T17:26:56.980Z",
+                    "completedAt": null
+                  },
+                  {
                     "id": 1793726806277,
                     "text": "Detalles Pedido (Facturación)",
                     "done": false,
